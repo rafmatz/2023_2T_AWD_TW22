@@ -198,3 +198,8 @@ p{
     font-size: 18px;
     width: 20px;
 }
+#colorChangeButton {
+    padding: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+}
